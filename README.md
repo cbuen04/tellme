@@ -1,5 +1,5 @@
 # tellme
-Senior capstone project. social media app using react native and node js. worked along side 3 people as a fullstack developer
+Senior capstone project. social media app using react native and node js. worked along side 3 people as a fullstack developer my tasks included, Frontend: design and api connection RDS and S3/CDN Backend: api development, RDS connection, table schema creation DevOps: AWS deployment EC2 hosting
 
 # Executive Summary
 Life is filled with decisions both trivial and transformative and it can be hard to determine the best course of action. The purpose of TellMe is to provide a platform users can turn to, to seek a second opinion. Our users are those who struggle with indecisiveness as well as individuals looking for a fresh and engaging way to interact with online communities. The goal of our product is to help users gather input for their problems by providing a video-based forum where they can ask other users for a second opinion on any life event or question they may have. Our mobile application will provide users with polling statistics from these responses to give them that second opinion and help them make decisions.
